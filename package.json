@@ -1,8 +1,9 @@
 {
-  "name": "lotide",
+  "name": "@username/lotide",
   "version": "1.0.0",
-  "description": "Lotide is a cloned of Lodash for learning JavaScript. What is Lodash? Lodash is a library that makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc.",
-  "main": "no",
+  "description": "Lotide is mini clone of the Lodash (https://lodash.com) library for learning JavaScript. What is Lodash? Lodash is a library that makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc.",
+  "keywords": ["lighthouse labs","mini lodash","cloned mini lodash","lotide"],
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -13,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/NahomKibreab/lotide.git"
   },
-  "author": "Nahom Mehanzel",
+  "author": "Nahom Kibreab Mehanzel <nknahom@gmail.com> (https://nahom-portfolio.netlify.app/)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/NahomKibreab/lotide/issues"
